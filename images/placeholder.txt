@@ -1,0 +1,2 @@
+Ce dossier contiendra les images des restaurants.
+Pour l'instant, c'est un espace réservé.
